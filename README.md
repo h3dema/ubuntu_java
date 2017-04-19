@@ -11,4 +11,4 @@ This repository contains Dockerfile of Ubuntu with Java 9.
 * Download automated build from this repository: docker build github.com/h3dema/ubuntu_java
 
 
-This installation is not working: must agree with oracle licence during apt-get install.
+**This installation is not working:** must agree with oracle licence during apt-get install.
