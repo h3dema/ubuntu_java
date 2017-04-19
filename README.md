@@ -3,7 +3,7 @@
 This repository contains Dockerfile of Ubuntu with Java 9.
 
 
-**Base Docker Image: Ubuntu:14.04 (docker container)
+* Base Docker Image: Ubuntu:14.04 (docker container)
 
 ## Installation
 
