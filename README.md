@@ -7,8 +7,8 @@ This repository contains Dockerfile of Ubuntu with Java 9.
 
 ## Installation
 
-* Install Docker.
-* Download automated build from this repository: docker build github.com/h3dema/ubuntu_java
+1. Install Docker.
+2. Download automated build from this repository: docker build github.com/h3dema/ubuntu_java
 
 
 **This installation is not working:** must agree with oracle licence during apt-get install.
