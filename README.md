@@ -11,3 +11,6 @@ ubuntu:14.04
 
 * Install Docker.
 * Download automated build from this repository: docker build github.com/h3dema/ubuntu_java
+
+
+This installation is not working: must agree with oracle licence during apt-get install.
