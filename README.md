@@ -10,5 +10,10 @@ This repository contains Dockerfile of Ubuntu with Java 9.
 1. [Install Docker](https://docs.docker.com/engine/installation/).
 2. Download automated build from this repository:
 ```bash
-docker build -t h3dema/java:1.0 github.com/h3dema/ubuntu_java
+docker build -t h3dema/java:1.0 --rm github.com/h3dema/ubuntu_java
+```
+
+3. To run it
+```bash
+docker run -it --rm --name h3dema/java:1.0
 ```
